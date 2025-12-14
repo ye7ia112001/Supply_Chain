@@ -49,11 +49,6 @@ The dashboard includes key visuals for diagnostics:
 
 ---
 
-## 📁 File Structure 
 
-* `Supply Chain Dashboard.pbix`: The Power BI Report file.
-* `RawData.xlsx`: The original data source files (simulated).
-* `Supply Chain Report.jpg`: A visual summary of the key findings.
-* `33.png`: Detailed chart snapshot.
 
 ---
